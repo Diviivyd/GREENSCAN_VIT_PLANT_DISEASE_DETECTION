@@ -203,8 +203,3 @@ Department of Information Technology
 Ramrao Adik Institute of Technology (RAIT)
 D. Y. Patil Deemed to be University
 
----
-
-## 📜 License
-
-This project is intended for academic and research purposes.

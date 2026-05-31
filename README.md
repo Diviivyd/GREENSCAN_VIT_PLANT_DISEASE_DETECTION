@@ -191,8 +191,8 @@ This project contributes to the field of Precision Agriculture through:
 
 ## 👩‍💻 Authors
 
-**Divya R. Pichika**
-**Saniya Ansari**
+**Divya R. Pichika**,
+**Saniya Ansari**,
 **Nandini Bandekar**
 
 ## 👩‍💻 Faculty Mentor
